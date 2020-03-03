@@ -1,0 +1,1 @@
+# abb_irb4600_40_255_moveit_config
