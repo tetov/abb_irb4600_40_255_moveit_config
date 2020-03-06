@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Anton T Johansson
     author_email: anton@tetov.se
-    generated_timestamp: 1583255211
+    generated_timestamp: 1583519088
